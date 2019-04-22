@@ -1,6 +1,3 @@
-%Thomas Kantner 104577846
-%Rocket Trajectory Simulation
-
 clear; close all; clc;
 
 %Physical Parameters
